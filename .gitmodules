@@ -5,3 +5,6 @@
 [submodule "covidcast"]
 	path = covidcast
 	url = https://github.com/cran/covidcast
+[submodule "regressinator"]
+	path = regressinator
+	url = https://github.com/capnrefsmmat/regressinator
